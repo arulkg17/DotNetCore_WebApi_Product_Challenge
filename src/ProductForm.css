@@ -1,0 +1,33 @@
+.product-form {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+  }
+  
+  .product-form div {
+    margin-bottom: 10px;
+  }
+  
+  .product-form label {
+    display: inline-block;
+    width: 80px;
+  }
+  
+  .product-form input {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  .product-form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  .product-form button:hover {
+    background-color: #45a049;
+  }
